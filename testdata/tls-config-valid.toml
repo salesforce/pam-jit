@@ -1,0 +1,6 @@
+ldap_tls_cacert = "./testdata/cert-valid.pem"
+ldap_tls_cert = "./testdata/cert-valid.pem"
+ldap_tls_key = "./testdata/pkcs8-key-valid.pem"
+ldap_tls_key_standard = "pkcs8"
+ldap_sasl_mech = "EXTERNAL"
+debug = true
